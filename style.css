@@ -1,0 +1,26 @@
+body{
+background-color: aliceblue;
+}
+
+#score{
+font-size:30px;
+float:left;
+}
+
+#timer{
+font-size:30px;
+float:right;
+}
+
+#sketch{
+ font-size:35px;
+color:rgb(135, 64, 64);
+}
+
+#label{
+font-size:20px;
+}
+
+#confidence{
+font-size:20px;
+}
